@@ -1,7 +1,7 @@
 /*
-  ***Ödev öncesi bilgilendirme***
-  1->Part 1 kısmında inputu operator sayi1 sayi2 şeklinde aldım(hepsini aynı line da)
-  2->Part1 fonksiyonum eger sadece sayi veya harf girersek çıkıyor yani bitiyor (örnegin-> 5 veya a gibi seyler girerse)
+  ***Ã–dev Ã¶ncesi bilgilendirme***
+  1->Part 1 kÃ½smÃ½nda inputu operator sayi1 sayi2 Ã¾eklinde aldÃ½m(hepsini aynÃ½ line da)
+  2->Part1 fonksiyonum eger sadece sayi veya harf girersek Ã§Ã½kÃ½yor yani bitiyor (Ã¶rnegin-> 5 veya a gibi seyler girerse)
   */ 
 
 
